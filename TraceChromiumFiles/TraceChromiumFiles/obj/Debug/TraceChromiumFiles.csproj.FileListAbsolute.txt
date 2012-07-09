@@ -1,0 +1,8 @@
+C:\Users\ksu\Documents\Visual Studio 2008\Projects\TraceChromiumFiles\TraceChromiumFiles\bin\Debug\TraceChromiumFiles.exe
+C:\Users\ksu\Documents\Visual Studio 2008\Projects\TraceChromiumFiles\TraceChromiumFiles\bin\Debug\TraceChromiumFiles.pdb
+C:\Users\ksu\Documents\Visual Studio 2008\Projects\TraceChromiumFiles\TraceChromiumFiles\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ksu\Documents\Visual Studio 2008\Projects\TraceChromiumFiles\TraceChromiumFiles\obj\Debug\TraceChromiumFiles.Form1.resources
+C:\Users\ksu\Documents\Visual Studio 2008\Projects\TraceChromiumFiles\TraceChromiumFiles\obj\Debug\TraceChromiumFiles.Properties.Resources.resources
+C:\Users\ksu\Documents\Visual Studio 2008\Projects\TraceChromiumFiles\TraceChromiumFiles\obj\Debug\TraceChromiumFiles.csproj.GenerateResource.Cache
+C:\Users\ksu\Documents\Visual Studio 2008\Projects\TraceChromiumFiles\TraceChromiumFiles\obj\Debug\TraceChromiumFiles.exe
+C:\Users\ksu\Documents\Visual Studio 2008\Projects\TraceChromiumFiles\TraceChromiumFiles\obj\Debug\TraceChromiumFiles.pdb

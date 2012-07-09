@@ -1,0 +1,21 @@
+C:\Users\ksu\Documents\Visual Studio 2008\Projects\j_test\j_test\bin\Debug\j_test.exe
+C:\Users\ksu\Documents\Visual Studio 2008\Projects\j_test\j_test\bin\Debug\j_test.pdb
+C:\Users\ksu\Documents\Visual Studio 2008\Projects\j_test\j_test\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ksu\Documents\Visual Studio 2008\Projects\j_test\j_test\obj\Debug\j_test.Form1.resources
+C:\Users\ksu\Documents\Visual Studio 2008\Projects\j_test\j_test\obj\Debug\j_test.Properties.Resources.resources
+C:\Users\ksu\Documents\Visual Studio 2008\Projects\j_test\j_test\obj\Debug\j_test.csproj.GenerateResource.Cache
+C:\Users\ksu\Documents\Visual Studio 2008\Projects\j_test\j_test\obj\Debug\j_test.exe
+C:\Users\ksu\Documents\Visual Studio 2008\Projects\j_test\j_test\obj\Debug\j_test.pdb
+C:\Users\ksu\Documents\Visual Studio 2008\Projects\j_test\j_test\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ksu\Documents\Visual Studio 2008\Projects\j_test\j_test\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\ksu\Documents\Visual Studio 2008\Projects\j_test\j_test\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ksu\Documents\myCode\j_test\j_test\obj\Debug\j_test.exe
+C:\Users\ksu\Documents\myCode\j_test\j_test\obj\Debug\j_test.pdb
+C:\Users\ksu\Documents\myCode\j_test\j_test\bin\Debug\j_test.exe
+C:\Users\ksu\Documents\myCode\j_test\j_test\bin\Debug\j_test.pdb
+C:\Users\ksu\Documents\myCode\j_test\j_test\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\ksu\Documents\myCode\j_test\j_test\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ksu\Documents\myCode\j_test\j_test\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ksu\Documents\myCode\j_test\j_test\obj\Debug\j_test.Form1.resources
+C:\Users\ksu\Documents\myCode\j_test\j_test\obj\Debug\j_test.Properties.Resources.resources
+C:\Users\ksu\Documents\myCode\j_test\j_test\obj\Debug\j_test.csproj.GenerateResource.Cache
