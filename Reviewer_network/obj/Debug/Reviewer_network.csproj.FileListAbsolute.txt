@@ -1,0 +1,8 @@
+C:\Users\ksu\Documents\Visual Studio 2008\Projects\Reviewer_network\Reviewer_network\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ksu\Documents\Visual Studio 2008\Projects\Reviewer_network\Reviewer_network\obj\Debug\Reviewer_network.Form1.resources
+C:\Users\ksu\Documents\Visual Studio 2008\Projects\Reviewer_network\Reviewer_network\obj\Debug\Reviewer_network.Properties.Resources.resources
+C:\Users\ksu\Documents\Visual Studio 2008\Projects\Reviewer_network\Reviewer_network\obj\Debug\Reviewer_network.csproj.GenerateResource.Cache
+C:\Users\ksu\Documents\Visual Studio 2008\Projects\Reviewer_network\Reviewer_network\bin\Debug\Reviewer_network.exe
+C:\Users\ksu\Documents\Visual Studio 2008\Projects\Reviewer_network\Reviewer_network\bin\Debug\Reviewer_network.pdb
+C:\Users\ksu\Documents\Visual Studio 2008\Projects\Reviewer_network\Reviewer_network\obj\Debug\Reviewer_network.exe
+C:\Users\ksu\Documents\Visual Studio 2008\Projects\Reviewer_network\Reviewer_network\obj\Debug\Reviewer_network.pdb
