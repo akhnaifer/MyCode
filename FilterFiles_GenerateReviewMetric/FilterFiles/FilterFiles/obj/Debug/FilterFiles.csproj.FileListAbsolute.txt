@@ -1,0 +1,8 @@
+C:\Users\ksu\Documents\Visual Studio 2008\Projects\FilterFiles\FilterFiles\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ksu\Documents\Visual Studio 2008\Projects\FilterFiles\FilterFiles\obj\Debug\FilterFiles.Form1.resources
+C:\Users\ksu\Documents\Visual Studio 2008\Projects\FilterFiles\FilterFiles\obj\Debug\FilterFiles.Properties.Resources.resources
+C:\Users\ksu\Documents\Visual Studio 2008\Projects\FilterFiles\FilterFiles\obj\Debug\FilterFiles.csproj.GenerateResource.Cache
+C:\Users\ksu\Documents\Visual Studio 2008\Projects\FilterFiles\FilterFiles\bin\Debug\FilterFiles.exe
+C:\Users\ksu\Documents\Visual Studio 2008\Projects\FilterFiles\FilterFiles\bin\Debug\FilterFiles.pdb
+C:\Users\ksu\Documents\Visual Studio 2008\Projects\FilterFiles\FilterFiles\obj\Debug\FilterFiles.exe
+C:\Users\ksu\Documents\Visual Studio 2008\Projects\FilterFiles\FilterFiles\obj\Debug\FilterFiles.pdb
